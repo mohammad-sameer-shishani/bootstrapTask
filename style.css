@@ -1,0 +1,8 @@
+.mycard:hover{
+    transform: scale(1.1);
+    box-shadow: 10%;
+}
+.link:hover
+{
+    transform: scale(1.1);
+}
